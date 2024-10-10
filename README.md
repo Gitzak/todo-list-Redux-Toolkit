@@ -16,27 +16,15 @@ This is a simple Todo List application built with React, Redux Toolkit, and Vite
 
 1.  Clone the repository:
     
-    bash
-    
-    Copy code
-    
     `git clone https://github.com/Gitzak/todo-list-Redux-Toolkit`
     
     `cd redux-toolkit-example`
     
 2.  Install dependencies:
     
-    bash
-    
-    Copy code
-    
     `npm install`
     
 3.  Start the development server:
-    
-    bash
-    
-    Copy code
     
     `npm run dev`
     
